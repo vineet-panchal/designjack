@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+scenarios/
+results/*/transcripts/
+results/harness_check/
+.pytest_cache/
+results/_old/
+results/*/runs.before_rescore.jsonl

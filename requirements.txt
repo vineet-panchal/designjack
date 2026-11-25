@@ -1,0 +1,7 @@
+ifcopenshell>=0.8
+anthropic>=0.40
+openai>=1.50
+pandas>=2.0
+matplotlib>=3.7
+tabulate>=0.9
+pytest>=7
